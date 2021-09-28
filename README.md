@@ -1,6 +1,6 @@
 # Cadastro
 
-Este projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) versão 12.1.3.
+Este projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) versão 12.1.3..
 
 # Instruções
 
