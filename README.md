@@ -2,6 +2,8 @@
 
 Este projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) versão 12.1.3.
 
+O projeto encontra-se na branch master : https://github.com/blendagaspar/Cadastro_frontend/blob/master/README.md .
+
 # Instruções
 
 <p>1- Clone o repositório do projeo</p>
